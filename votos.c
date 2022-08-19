@@ -67,5 +67,5 @@ int main(){
 		else if(n4>(n2+n1+n3)){
 			printf("Jose tem mais votos que os demais juntos\n");
 		}
-		
+	return 0;	
 }
